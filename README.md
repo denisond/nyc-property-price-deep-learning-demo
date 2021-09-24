@@ -1,1 +1,1 @@
-# two-sigma-challenge
+# case-study-take-home-interview
