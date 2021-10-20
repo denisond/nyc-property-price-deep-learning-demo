@@ -18,9 +18,9 @@ take home interview for data scientist role. this repository is primarily to dem
 In this notebook I perform several analyses on Manhattan property sales data from 2020-2021.
 
 My analyses can be summarised as the following
-- 1. Build understanding through data cleaning and exploratory data analysis.
-- 2. Conduct hypothesis tests to estimate relationships between key variables
-- 3. Fit a wide range of machine learning and deep learning models (NAS for supervised nn and denoising autoencoder) to predict Manhattan property sales data.
+- Build understanding through data cleaning and exploratory data analysis.
+- Conduct hypothesis tests to estimate relationships between key variables
+- Fit a wide range of machine learning and deep learning models (NAS for supervised nn and denoising autoencoder) to predict Manhattan property sales data.
 <br><br>
 
 **Motivation:**
